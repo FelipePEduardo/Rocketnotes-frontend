@@ -4,7 +4,10 @@ https://user-images.githubusercontent.com/103855358/188012001-ccac0982-33c9-4185
 
 ## Sobre
 
-<p>Projeto de uma aplicação completa com tela de login, cadastro, atualização de perfil, ver notas e tela de criar novas notas</p>
+<p>
+  Projeto de uma aplicação completa com tela de login, cadastro, atualização de perfil, ver notas e tela de criar novas notas. </br>
+  <a target="_blank" href="https://github.com/FelipePEduardo/Rocketnotes-backend/">Back-End</a>
+</p>
 
 ## Tecnologias utilizadas
 
